@@ -48,7 +48,7 @@
 * uyuntu (TEL：09098792651、Wechat：Sainoyont)
 * burgud (TEL：08051710088、Wechat：jsj05543)
 
-<img src="./WechatIMG14.jpeg" width="２８０px">
+<img src="./WechatIMG14.jpeg" width="８０px">
 
 
 最後に、皆さまへのお願いですが、入門者向けの勉強会情報をぜひ色々な在日モンゴル人グループ、facebookなどで情報拡散していただければ大変ありがたいです。
