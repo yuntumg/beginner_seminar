@@ -49,7 +49,12 @@
 * burgud (TEL：08051710088、Wechat：jsj05543)
 
 ## WeChatクループQRコード
-<img src="./WechatIMG14.jpeg" style="max-width:20%;">
+<img src="./WechatIMG14.jpeg" />
+
+## アンケート結果公開
+<img src="./questionnaire1.png" /><br/>
+<img src="./questionnaire2.png" /><br/>
+<img src="./questionnaire3.png" /><br/>
 
 
 最後に、皆さまへのお願いですが、入門者向けの勉強会情報をぜひ色々な在日モンゴル人グループ、facebookなどで情報拡散していただければ大変ありがたいです。
