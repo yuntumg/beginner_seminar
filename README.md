@@ -49,12 +49,12 @@
 * burgud (TEL：08051710088、Wechat：jsj05543)
 
 ## WeChatクループQRコード
-<img src="./WechatIMG14.jpg" />
+<img src="http://oyt.otorchin.com/wp-content/uploads/2019/03/qrcode-e1553868420796.png" />
 
 ## アンケート結果公開
-<img src="./questionnaire1.jpg" /><br/>
-<img src="./questionnaire2.jpg" /><br/>
-<img src="./questionnaire3.jpg" /><br/>
+<img src="http://oyt.otorchin.com/wp-content/uploads/2019/03/questionnaire1.png" /><br/>
+<img src="http://oyt.otorchin.com/wp-content/uploads/2019/03/questionnaire2.png" /><br/>
+<img src="http://oyt.otorchin.com/wp-content/uploads/2019/03/questionnaire3.png" /><br/>
 
 
 最後に、皆さまへのお願いですが、入門者向けの勉強会情報をぜひ色々な在日モンゴル人グループ、facebookなどで情報拡散していただければ大変ありがたいです。
