@@ -49,7 +49,7 @@
 * burgud (TEL：08051710088、Wechat：jsj05543)
 
 ## WeChatクループQRコード
-<img src="http://oyt.otorchin.com/wp-content/uploads/2019/06/mmqrcode1560260806695-e1560261769587.png" />
+<img src="http://oyt.otorchin.com/wp-content/uploads/2019/06/mmqrcode1561881260114-e1561881300167.png" />
 
 ## アンケート結果公開
 <img src="http://oyt.otorchin.com/wp-content/uploads/2019/03/questionnaire1.png" /><br/>
